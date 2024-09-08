@@ -1,0 +1,13 @@
+{
+  "name": "com.byeoon.hierarchyrenamer",
+  "displayName": "HierarchyRenamer",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Simple Package for testing Automation",
+  "vrchatVersion": "2022.3",
+  "author": {
+    "name": "byeoon",
+    "email": "byeoon@fibr.social",
+    "url": "https://byeoon.github.io"
+  }
+}
