@@ -1,3 +1,5 @@
+# HierarchyRenamer
+
 # VPM Package Template
 
 Starter for making Packages, including automation for building and publishing them.
